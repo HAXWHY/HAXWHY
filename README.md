@@ -35,7 +35,7 @@ With a solid grounding in troubleshooting, user support, and system administrati
 
 * 🛡️ **CompTIA Security+** (Studying)
 * 🎓 **Google Cybersecurity Professional Certificate** (Gained)
-* 🎯 **TryHackMe / Hack The Box:** Top X% / Active Blue Team Path Student
+* 🎯 **TryHackMe / Hack The Box - Active Blue Team Path Student
 
 ---
 
