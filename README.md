@@ -13,7 +13,7 @@ With a solid grounding in troubleshooting, user support, and system administrati
 * **SIEM & Monitoring:** Splunk (Basic Querying), Wireshark (Packet Analysis), Elastic Stack
 * **Networking & Systems:** TCP/IP, DNS, Active Directory, Windows Event Logs, Linux Command Line
 * **Core Concepts:** MITRE ATT&CK Framework, Cyber Kill Chain, Phishing Analysis, Malware Basics
-* **Scripting / Automation:** Bash, PowerShell (Basic scripting)
+* **Scripting / Automation:** Bash, PowerShell, Python
 
 ---
 
