@@ -41,5 +41,5 @@ With a solid grounding in troubleshooting, user support, and system administrati
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* **Instagram:** [your.email@example.com](https://www.instagram.com/muhammeddeghoughi/)
+* **LinkedIn:** [linkedin.com/in/mohammed-deghoughi](https://linkedin.com)
+* **Instagram:** [instagram.com/muhammeddeghoughi](https://www.instagram.com/muhammeddeghoughi/)
